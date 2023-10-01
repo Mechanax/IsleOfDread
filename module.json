@@ -1,0 +1,19 @@
+{
+  "id": "isleofdread",
+  "title": "Isle of Dread",
+  "description": "A Bunch of HB changes for our campaign setting",
+  "version": "0.0.1",
+  "authors": [
+    {
+    "name": "Mechanax"
+    }
+  ],
+  "systems": ["dnd5e"],
+  "scripts": ["weaponproperties.js"],
+  "manifest": "https://raw.githubusercontent.com/Mechanax/IsleOfDread/main/module.json",
+  "download": "https://github.com/Mechanax/IsleOfDread/archive/main.zip",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}
