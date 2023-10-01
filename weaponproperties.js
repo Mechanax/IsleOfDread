@@ -1,6 +1,6 @@
 Hooks.on('ready', () => {
-  CONFIG.DND5E.weaponProperties['armorpiercing'] = 'Armor Piercing';
-  CONFIG.DND5E.weaponProperties['blackpowder'] = 'Blackpowder';
+	CONFIG.DND5E.weaponProperties['armorpiercing'] = 'Armor Piercing';
+	CONFIG.DND5E.weaponProperties['blackpowder'] = 'Blackpowder';
 	CONFIG.DND5E.weaponProperties['brutal'] = 'Brutal';
 	CONFIG.DND5E.weaponProperties['cumbersome'] = 'Cumbersome';
 	CONFIG.DND5E.weaponProperties['defending'] = 'Defending';
